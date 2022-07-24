@@ -6,6 +6,6 @@
 
 ### Syllabus
 
-- [Week 1](src/fundamentals-2022-03/Week_1/README.md)
+- [Week 1](src/fundamentals-2022-03/week_1/README.md)
 
 ---
