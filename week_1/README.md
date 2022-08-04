@@ -1,6 +1,8 @@
-### Week Challenge (Tuesday)
+# <center> Week 1 Introduction to programming & Javascript </center>
 
 ---
+
+### Week Challenge (Tuesday)
 
 #### 1. Interpreted And Compiled Programming Languages
 
@@ -45,6 +47,8 @@ Raw material
 5. PRINT btcn
 6. END
 ```
+
+---
 
 ### Week Challenge (Wednesday)
 
@@ -130,6 +134,8 @@ Writing the age to binary
               move $a0, $t2
               syscall
 ```
+
+---
 
 ### Week Challenge (Tursday)
 
