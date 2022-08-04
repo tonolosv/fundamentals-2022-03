@@ -8,4 +8,3 @@
 
 - [Week 1](/week_1/README.md)
 - [Week 2](/week_2/README.md)
-- ***
